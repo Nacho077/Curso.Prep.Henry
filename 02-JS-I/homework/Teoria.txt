@@ -1,0 +1,16 @@
+Variables:
+Es un número, palabra o conjunto de ambos
+al que se le da un nombre y se puede modificar.
+
+Strings:
+Palabras o conjunto de palabras.
+
+Funciones:
+Se utilizan para que se realize una acción.
+
+Declaraciones 'if':
+Se usan para que se realize una acción si sucede algo
+y otra si no sucede.
+
+Valores booleanos:
+Se usan para saber si pasa algo 'true' o si no pasa 'false'
