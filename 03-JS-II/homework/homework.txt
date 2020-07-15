@@ -1,0 +1,11 @@
+for:
+Repite acciones una y otra vez.
+
+&&:
+Pide que se cumplan todas las condiciones para que sea verdadero.
+
+||:
+Pide que se cumpla una de las condiciones para que sea cierto.
+
+!:
+Se usa para indicar lo contrario a la accion.
