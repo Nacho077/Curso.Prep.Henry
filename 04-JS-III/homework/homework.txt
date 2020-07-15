@@ -1,0 +1,2 @@
+arrays:
+es una cadena de palabras o numeros.
